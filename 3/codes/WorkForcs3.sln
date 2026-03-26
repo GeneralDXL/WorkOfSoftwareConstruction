@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkForcs3", "WorkForcs3\WorkForcs3.csproj", "{DBACDE64-9CC5-42D0-B79E-DC4EC70E48F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBACDE64-9CC5-42D0-B79E-DC4EC70E48F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBACDE64-9CC5-42D0-B79E-DC4EC70E48F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBACDE64-9CC5-42D0-B79E-DC4EC70E48F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBACDE64-9CC5-42D0-B79E-DC4EC70E48F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4973C0A7-1415-4B08-9D3B-996B78922D6B}
+	EndGlobalSection
+EndGlobal
